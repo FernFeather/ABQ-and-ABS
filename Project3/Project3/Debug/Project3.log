@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\Julia\source\repos\Project3\Project3\ABQ.h(118,1): warning C4244: '*=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Julia\source\repos\Project3\Project3\ABQ.h(102): message : while compiling class template member function 'T ABQ<T>::dequeue(void)'
+          with
+          [
+              T=int
+          ]
+C:\Users\Julia\source\repos\Project3\Project3\main.cpp(23): message : see reference to function template instantiation 'T ABQ<T>::dequeue(void)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\Julia\source\repos\Project3\Project3\main.cpp(8): message : see reference to class template instantiation 'ABQ<int>' being compiled
+  Project3.vcxproj -> C:\Users\Julia\source\repos\Project3\Debug\Project3.exe
